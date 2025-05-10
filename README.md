@@ -11,7 +11,7 @@ To view your <strong>semester-based result</strong>, copy the link below and pas
 </p>
 
 <div style="background:#eee; padding:10px; border-radius:8px; font-family:monospace; font-size:14px; word-wrap:break-word; margin-top:15px;">
-🔗 https://result-viewer-diu-v1.surge.sh
+🔗 
 </div>
 
 <p style="font-size:14px; color:#cc0000; margin-top:15px;">
